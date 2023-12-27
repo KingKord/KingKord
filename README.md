@@ -8,6 +8,7 @@
 
 
 <h3 align="left">Connect with me: https://t.me/gorbatykh</h3>
+<h3 align="left">My leetcode: https://leetcode.com/KingKord/</h3>
 <p align="left">
 </p>
 
